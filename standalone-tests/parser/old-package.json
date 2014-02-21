@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "engine.io": "git://github.com/learnboost/engine.io#4785b786cbd3ce9f1ca47529fb4fd1c6d932d216",
+    "engine.io-client": "git://github.com/learnboost/engine.io-client#f346921f786f18c69315c0af59082b42fdcf9a42",
+    "s": "*",
+    "ws": "*",
+    "engine.io-protocol": "git://github.com/learnboost/engine.io-protocol#7ac24db0ceff874b6d26463ef40f8a957bb2a701"
+  }
+}
